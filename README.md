@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Субботин Николай
 
-<!--
-**NikolaySubbotin/NikolaySubbotin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Обо мне:
+- Python-разработчик с фокусом на автоматизацию и AI.
+- Работаю с: Make.com, n8n, OpenAI GPT, Flask, requests, NumPy, Pandas, Django
 
-Here are some ideas to get you started:
+### 🛠 Проекты:
+Здесь скоро появятся мои работы! Пока можете посмотреть:
+- [Telegram-бот для HR](ссылка_на_репозиторий) — в разработке.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Контакты:
+- Telegram: @Nikolaysft
+- Почта: n.subbotin1986@gmail.com
